@@ -1,0 +1,13 @@
+file,table,source_rows,rows_inserted,rows_rejected,status
+sectors.xlsx,sectors,18,18,0,OK
+companies.xlsx,companies,92,92,0,OK
+profitandloss.xlsx,profitandloss,1275,1275,0,OK
+balancesheet.xlsx,balancesheet,1291,1291,0,OK
+cashflow.xlsx,cashflow,1180,1180,0,OK
+stock_prices.xlsx,stock_prices,5520,5520,0,OK
+financial_ratios.xlsx,financial_ratios,1289,1289,0,OK
+analysis.xlsx,analysis,1271,1271,0,OK
+documents.xlsx,documents,370,370,0,OK
+prosandcons.xlsx,prosandcons,541,541,0,OK
+peer_groups.xlsx,peer_groups,92,92,0,OK
+sectors_supplementary.xlsx,(supplementary),18,0,0,SUPPLEMENTARY_ONLY
