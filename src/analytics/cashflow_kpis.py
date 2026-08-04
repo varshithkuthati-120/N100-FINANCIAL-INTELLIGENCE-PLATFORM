@@ -78,6 +78,7 @@ def generate_cashflow_kpis(db_path='nifty100.db', out_excel='output/cashflow_int
         else:
             fcf_cagr_5yr = 0
             
+        latest = merged.iloc[-1]
         fcf_conversion_pct = (latest['fcf'] / latest['net_profit'] * 100) if latest['net_profit'] > 0 else 0
         
         # Mock capital allocation label based on data
