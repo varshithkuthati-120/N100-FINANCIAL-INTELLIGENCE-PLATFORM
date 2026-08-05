@@ -1,80 +1,81 @@
 company_id,previous_pattern,latest_pattern
-RELIANCE,Dividend Payer,Capital Returner
-TCS,Dividend Payer,Value
-HDFCBANK,Value,Distress Signal
-INFY,Distress Signal,Deleveraging
-ICICIBANK,Reinvestor,Capital Returner
-HINDUNILVR,Value,Reinvestor
-SBIN,Value,Capital Returner
-BHARTIARTL,Value,Distress Signal
-ITC,Cash Cow,Reinvestor
-LT,Cash Cow,Capital Returner
+TCS,Dividend Payer,Capital Returner
+HDFCBANK,Deleveraging,Cash Cow
+INFY,Growth,Dividend Payer
+ICICIBANK,Dividend Payer,Growth
+HINDUNILVR,Distress Signal,Reinvestor
+BHARTIARTL,Capital Returner,Dividend Payer
+ITC,Dividend Payer,Value
+KOTAKBANK,Growth,Deleveraging
 AXISBANK,Cash Cow,Reinvestor
-BAJFINANCE,Distress Signal,Cash Cow
-MARUTI,Cash Cow,Value
-ASIANPAINT,Capital Returner,Reinvestor
-TATASTEEL,Reinvestor,Capital Returner
-WIPRO,Reinvestor,Distress Signal
-HCLTECH,Distress Signal,Growth
-NTPC,Distress Signal,Reinvestor
-POWERGRID,Capital Returner,Reinvestor
-COALINDIA,Reinvestor,Value
-HINDALCO,Deleveraging,Distress Signal
-TATAMOTORS,Reinvestor,Dividend Payer
-ADANIPORTS,Growth,Reinvestor
-TECHM,Cash Cow,Deleveraging
-DRREDDY,Cash Cow,Dividend Payer
-CIPLA,Value,Capital Returner
-ULTRACEMCO,Deleveraging,Dividend Payer
-AMBUJACEM,Growth,Capital Returner
-DABUR,Cash Cow,Dividend Payer
-BRITANNIA,Distress Signal,Cash Cow
-HEROMOTOCO,Capital Returner,Reinvestor
-EICHERMOT,Value,Distress Signal
-TITAN,Capital Returner,Deleveraging
-MARICO,Growth,Cash Cow
-VEDL,Value,Distress Signal
-JSPL,Value,Distress Signal
-GRASIM,Distress Signal,Cash Cow
-M&M,Cash Cow,Deleveraging
-ADANIENT,Capital Returner,Cash Cow
-DIVISLAB,Dividend Payer,Growth
-INDUSINDBK,Value,Reinvestor
-TATAELXSI,Growth,Value
-PIDILITIND,Deleveraging,Reinvestor
-GODREJCP,Value,Reinvestor
-BAJAJFINSV,Growth,Value
-LUPIN,Distress Signal,Growth
-BAJAJHLDNG,Distress Signal,Reinvestor
-CANBK,Dividend Payer,Deleveraging
-BANKBARODA,Cash Cow,Reinvestor
-UNIONBANK,Distress Signal,Capital Returner
-FEDERALBNK,Dividend Payer,Distress Signal
-HDFCLIFE,Dividend Payer,Distress Signal
-SBILIFE,Growth,Cash Cow
-ICICIPRULI,Dividend Payer,Value
-SAIL,Reinvestor,Growth
-NMDC,Value,Deleveraging
-NALCO,Deleveraging,Capital Returner
-POWERINDIA,Capital Returner,Distress Signal
-IOCL,Deleveraging,Distress Signal
-HPCL,Deleveraging,Dividend Payer
-MUTHOOTFIN,Reinvestor,Cash Cow
-BANDHANBNK,Dividend Payer,Capital Returner
-TORNTPHARM,Distress Signal,Growth
-ALKEM,Growth,Value
-LALPATHLAB,Value,Deleveraging
-BIOCON,Deleveraging,Growth
-ZYDUSLIFE,Growth,Reinvestor
-ABBOTINDIA,Growth,Distress Signal
-APOLLOHOSP,Distress Signal,Growth
-MAXHEALTH,Dividend Payer,Deleveraging
-FORTIS,Reinvestor,Value
-DEVYANI,Dividend Payer,Distress Signal
-OBEROIRLTY,Distress Signal,Reinvestor
-INDIANHOTL,Capital Returner,Value
-TVSMOTOR,Value,Capital Returner
-VOLTAS,Value,Dividend Payer
-AARTIIND,Deleveraging,Reinvestor
-TORNTPOWER,Distress Signal,Growth
-CHOLAFIN,Distress Signal,Value
+BAJFINANCE,Cash Cow,Dividend Payer
+MARUTI,Deleveraging,Dividend Payer
+ASIANPAINT,Capital Returner,Distress Signal
+TATASTEEL,Value,Deleveraging
+WIPRO,Capital Returner,Deleveraging
+HCLTECH,Deleveraging,Reinvestor
+ONGC,Deleveraging,Dividend Payer
+NTPC,Deleveraging,Capital Returner
+POWERGRID,Deleveraging,Dividend Payer
+COALINDIA,Dividend Payer,Growth
+HINDALCO,Capital Returner,Value
+ADANIPORTS,Cash Cow,Dividend Payer
+TECHM,Deleveraging,Capital Returner
+DRREDDY,Distress Signal,Reinvestor
+CIPLA,Distress Signal,Dividend Payer
+BPCL,Deleveraging,Capital Returner
+ULTRACEMCO,Value,Cash Cow
+AMBUJACEM,Value,Dividend Payer
+DABUR,Cash Cow,Deleveraging
+BRITANNIA,Cash Cow,Distress Signal
+HEROMOTOCO,Deleveraging,Cash Cow
+EICHERMOT,Distress Signal,Reinvestor
+TITAN,Dividend Payer,Reinvestor
+MARICO,Growth,Deleveraging
+VEDL,Reinvestor,Deleveraging
+GRASIM,Dividend Payer,Capital Returner
+BAJAJAUTO,Cash Cow,Dividend Payer
+M&M,Value,Growth
+ADANIENT,Growth,Reinvestor
+DIVISLAB,Growth,Reinvestor
+INDUSINDBK,Deleveraging,Distress Signal
+TATAPOWER,Value,Cash Cow
+TATAELXSI,Cash Cow,Distress Signal
+PIDILITIND,Cash Cow,Value
+GODREJCP,Cash Cow,Deleveraging
+HAVELLS,Capital Returner,Reinvestor
+BAJAJFINSV,Growth,Dividend Payer
+BAJAJHLDNG,Dividend Payer,Cash Cow
+CANBK,Growth,Value
+BANKBARODA,Value,Distress Signal
+PNB,Distress Signal,Capital Returner
+FEDERALBNK,Cash Cow,Deleveraging
+IDFCFIRSTB,Reinvestor,Value
+HDFCLIFE,Value,Growth
+SBILIFE,Growth,Dividend Payer
+ICICIPRULI,Value,Distress Signal
+SAIL,Reinvestor,Distress Signal
+NMDC,Capital Returner,Growth
+NHPC,Growth,Dividend Payer
+POWERINDIA,Growth,Dividend Payer
+IOCL,Growth,Deleveraging
+HPCL,Distress Signal,Deleveraging
+MUTHOOTFIN,Distress Signal,Value
+TORNTPHARM,Cash Cow,Reinvestor
+LALPATHLAB,Value,Dividend Payer
+BIOCON,Capital Returner,Growth
+ZYDUSLIFE,Deleveraging,Dividend Payer
+ABBOTINDIA,Capital Returner,Value
+APOLLOHOSP,Dividend Payer,Deleveraging
+MAXHEALTH,Growth,Dividend Payer
+FORTIS,Dividend Payer,Distress Signal
+DEVYANI,Dividend Payer,Reinvestor
+OBEROIRLTY,Reinvestor,Distress Signal
+INDIANHOTL,Deleveraging,Reinvestor
+TVSMOTOR,Reinvestor,Distress Signal
+VOLTAS,Reinvestor,Dividend Payer
+ASTRAL,Reinvestor,Growth
+AARTIIND,Growth,Distress Signal
+TORNTPOWER,Growth,Cash Cow
+M&MFIN,Deleveraging,Reinvestor
+CHOLAFIN,Capital Returner,Value

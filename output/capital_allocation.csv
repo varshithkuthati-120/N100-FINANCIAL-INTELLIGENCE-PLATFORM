@@ -1,591 +1,591 @@
 company_id,year,pattern
-RELIANCE,2006.0,Growth
-RELIANCE,2007.0,Dividend Payer
-RELIANCE,2008.0,Growth
+RELIANCE,2006.0,Value
+RELIANCE,2007.0,Capital Returner
+RELIANCE,2008.0,Cash Cow
 RELIANCE,2009.0,Deleveraging
-RELIANCE,2016.0,Dividend Payer
-RELIANCE,2022.0,Capital Returner
-TCS,2007.0,Value
-TCS,2008.0,Reinvestor
-TCS,2014.0,Reinvestor
-TCS,2015.0,Reinvestor
+RELIANCE,2016.0,Growth
+RELIANCE,2022.0,Growth
+TCS,2007.0,Capital Returner
+TCS,2008.0,Value
+TCS,2014.0,Growth
+TCS,2015.0,Capital Returner
 TCS,2018.0,Dividend Payer
-TCS,2024.0,Value
-HDFCBANK,2006.0,Capital Returner
-HDFCBANK,2008.0,Distress Signal
-HDFCBANK,2010.0,Dividend Payer
+TCS,2024.0,Capital Returner
+HDFCBANK,2006.0,Dividend Payer
+HDFCBANK,2008.0,Capital Returner
+HDFCBANK,2010.0,Capital Returner
 HDFCBANK,2011.0,Capital Returner
 HDFCBANK,2014.0,Growth
-HDFCBANK,2017.0,Dividend Payer
-HDFCBANK,2018.0,Cash Cow
-HDFCBANK,2020.0,Value
-HDFCBANK,2022.0,Distress Signal
-INFY,2005.0,Value
-INFY,2018.0,Distress Signal
-INFY,2023.0,Deleveraging
-ICICIBANK,2005.0,Growth
-ICICIBANK,2009.0,Value
-ICICIBANK,2013.0,Growth
-ICICIBANK,2014.0,Capital Returner
-ICICIBANK,2016.0,Capital Returner
-ICICIBANK,2018.0,Dividend Payer
-ICICIBANK,2019.0,Value
-ICICIBANK,2021.0,Reinvestor
-ICICIBANK,2023.0,Capital Returner
-HINDUNILVR,2009.0,Growth
-HINDUNILVR,2011.0,Capital Returner
+HDFCBANK,2017.0,Cash Cow
+HDFCBANK,2018.0,Value
+HDFCBANK,2020.0,Deleveraging
+HDFCBANK,2022.0,Cash Cow
+INFY,2005.0,Distress Signal
+INFY,2018.0,Growth
+INFY,2023.0,Dividend Payer
+ICICIBANK,2005.0,Cash Cow
+ICICIBANK,2009.0,Cash Cow
+ICICIBANK,2013.0,Dividend Payer
+ICICIBANK,2014.0,Reinvestor
+ICICIBANK,2016.0,Distress Signal
+ICICIBANK,2018.0,Reinvestor
+ICICIBANK,2019.0,Deleveraging
+ICICIBANK,2021.0,Dividend Payer
+ICICIBANK,2023.0,Growth
+HINDUNILVR,2009.0,Cash Cow
+HINDUNILVR,2011.0,Cash Cow
 HINDUNILVR,2014.0,Capital Returner
-HINDUNILVR,2019.0,Value
+HINDUNILVR,2019.0,Distress Signal
 HINDUNILVR,2021.0,Reinvestor
-SBIN,2008.0,Dividend Payer
-SBIN,2012.0,Capital Returner
-SBIN,2014.0,Capital Returner
-SBIN,2018.0,Value
-SBIN,2021.0,Capital Returner
-BHARTIARTL,2007.0,Cash Cow
-BHARTIARTL,2010.0,Value
-BHARTIARTL,2012.0,Dividend Payer
+SBIN,2008.0,Deleveraging
+SBIN,2012.0,Cash Cow
+SBIN,2014.0,Deleveraging
+SBIN,2018.0,Deleveraging
+SBIN,2021.0,Deleveraging
+BHARTIARTL,2007.0,Reinvestor
+BHARTIARTL,2010.0,Cash Cow
+BHARTIARTL,2012.0,Growth
 BHARTIARTL,2013.0,Deleveraging
-BHARTIARTL,2016.0,Growth
-BHARTIARTL,2017.0,Distress Signal
-BHARTIARTL,2020.0,Value
-BHARTIARTL,2023.0,Distress Signal
-ITC,2005.0,Growth
-ITC,2006.0,Reinvestor
-ITC,2007.0,Distress Signal
-ITC,2014.0,Dividend Payer
+BHARTIARTL,2016.0,Capital Returner
+BHARTIARTL,2017.0,Dividend Payer
+BHARTIARTL,2020.0,Capital Returner
+BHARTIARTL,2023.0,Dividend Payer
+ITC,2005.0,Value
+ITC,2006.0,Growth
+ITC,2007.0,Cash Cow
+ITC,2014.0,Capital Returner
 ITC,2015.0,Distress Signal
-ITC,2016.0,Capital Returner
+ITC,2016.0,Reinvestor
 ITC,2017.0,Capital Returner
-ITC,2018.0,Cash Cow
-ITC,2021.0,Reinvestor
-KOTAKBANK,2009.0,Dividend Payer
-KOTAKBANK,2018.0,Capital Returner
-KOTAKBANK,2024.0,Capital Returner
+ITC,2018.0,Dividend Payer
+ITC,2021.0,Value
+KOTAKBANK,2009.0,Value
+KOTAKBANK,2018.0,Growth
+KOTAKBANK,2024.0,Deleveraging
 LT,2005.0,Capital Returner
-LT,2010.0,Deleveraging
-LT,2018.0,Cash Cow
-LT,2024.0,Capital Returner
+LT,2010.0,Growth
+LT,2018.0,Distress Signal
+LT,2024.0,Distress Signal
 AXISBANK,2006.0,Cash Cow
-AXISBANK,2007.0,Deleveraging
+AXISBANK,2007.0,Cash Cow
 AXISBANK,2018.0,Cash Cow
 AXISBANK,2023.0,Reinvestor
-BAJFINANCE,2009.0,Capital Returner
-BAJFINANCE,2011.0,Capital Returner
-BAJFINANCE,2013.0,Cash Cow
-BAJFINANCE,2017.0,Distress Signal
-BAJFINANCE,2022.0,Cash Cow
-MARUTI,2005.0,Distress Signal
-MARUTI,2009.0,Reinvestor
-MARUTI,2013.0,Value
-MARUTI,2020.0,Growth
-MARUTI,2022.0,Cash Cow
-MARUTI,2024.0,Value
-ASIANPAINT,2007.0,Deleveraging
+BAJFINANCE,2009.0,Growth
+BAJFINANCE,2011.0,Reinvestor
+BAJFINANCE,2013.0,Capital Returner
+BAJFINANCE,2017.0,Cash Cow
+BAJFINANCE,2022.0,Dividend Payer
+MARUTI,2005.0,Reinvestor
+MARUTI,2009.0,Cash Cow
+MARUTI,2013.0,Deleveraging
+MARUTI,2020.0,Cash Cow
+MARUTI,2022.0,Deleveraging
+MARUTI,2024.0,Dividend Payer
+ASIANPAINT,2007.0,Growth
 ASIANPAINT,2010.0,Reinvestor
 ASIANPAINT,2016.0,Capital Returner
-ASIANPAINT,2020.0,Reinvestor
-SUNPHARMA,2006.0,Distress Signal
-SUNPHARMA,2010.0,Dividend Payer
-SUNPHARMA,2011.0,Cash Cow
-SUNPHARMA,2012.0,Value
-SUNPHARMA,2016.0,Dividend Payer
-SUNPHARMA,2020.0,Reinvestor
-SUNPHARMA,2022.0,Reinvestor
-TATASTEEL,2009.0,Cash Cow
+ASIANPAINT,2020.0,Distress Signal
+SUNPHARMA,2006.0,Reinvestor
+SUNPHARMA,2010.0,Deleveraging
+SUNPHARMA,2011.0,Dividend Payer
+SUNPHARMA,2012.0,Deleveraging
+SUNPHARMA,2016.0,Cash Cow
+SUNPHARMA,2020.0,Dividend Payer
+SUNPHARMA,2022.0,Dividend Payer
+TATASTEEL,2009.0,Capital Returner
 TATASTEEL,2010.0,Cash Cow
-TATASTEEL,2012.0,Distress Signal
-TATASTEEL,2019.0,Reinvestor
-TATASTEEL,2020.0,Capital Returner
-WIPRO,2012.0,Deleveraging
-WIPRO,2013.0,Deleveraging
-WIPRO,2016.0,Reinvestor
-WIPRO,2017.0,Distress Signal
-HCLTECH,2011.0,Growth
+TATASTEEL,2012.0,Capital Returner
+TATASTEEL,2019.0,Value
+TATASTEEL,2020.0,Deleveraging
+WIPRO,2012.0,Capital Returner
+WIPRO,2013.0,Distress Signal
+WIPRO,2016.0,Capital Returner
+WIPRO,2017.0,Deleveraging
+HCLTECH,2011.0,Capital Returner
 HCLTECH,2013.0,Deleveraging
-HCLTECH,2017.0,Distress Signal
-HCLTECH,2019.0,Growth
-ONGC,2005.0,Deleveraging
-ONGC,2010.0,Dividend Payer
-ONGC,2014.0,Growth
-ONGC,2020.0,Distress Signal
-ONGC,2021.0,Reinvestor
+HCLTECH,2017.0,Deleveraging
+HCLTECH,2019.0,Reinvestor
+ONGC,2005.0,Cash Cow
+ONGC,2010.0,Reinvestor
+ONGC,2014.0,Dividend Payer
+ONGC,2020.0,Growth
+ONGC,2021.0,Dividend Payer
 ONGC,2022.0,Deleveraging
-ONGC,2024.0,Deleveraging
-NTPC,2008.0,Distress Signal
-NTPC,2010.0,Capital Returner
+ONGC,2024.0,Dividend Payer
+NTPC,2008.0,Capital Returner
+NTPC,2010.0,Cash Cow
 NTPC,2011.0,Dividend Payer
-NTPC,2012.0,Distress Signal
-NTPC,2013.0,Dividend Payer
-NTPC,2014.0,Capital Returner
-NTPC,2019.0,Distress Signal
-NTPC,2022.0,Reinvestor
-POWERGRID,2007.0,Deleveraging
+NTPC,2012.0,Reinvestor
+NTPC,2013.0,Distress Signal
+NTPC,2014.0,Dividend Payer
+NTPC,2019.0,Deleveraging
+NTPC,2022.0,Capital Returner
+POWERGRID,2007.0,Cash Cow
 POWERGRID,2010.0,Reinvestor
-POWERGRID,2013.0,Deleveraging
-POWERGRID,2019.0,Capital Returner
-POWERGRID,2020.0,Reinvestor
-COALINDIA,2005.0,Reinvestor
+POWERGRID,2013.0,Distress Signal
+POWERGRID,2019.0,Deleveraging
+POWERGRID,2020.0,Dividend Payer
+COALINDIA,2005.0,Distress Signal
 COALINDIA,2010.0,Deleveraging
-COALINDIA,2013.0,Distress Signal
-COALINDIA,2016.0,Dividend Payer
-COALINDIA,2022.0,Reinvestor
-COALINDIA,2024.0,Value
-HINDALCO,2010.0,Cash Cow
-HINDALCO,2012.0,Cash Cow
-HINDALCO,2013.0,Growth
-HINDALCO,2016.0,Reinvestor
-HINDALCO,2018.0,Deleveraging
-HINDALCO,2021.0,Distress Signal
-TATAMOTORS,2007.0,Dividend Payer
-TATAMOTORS,2008.0,Reinvestor
-TATAMOTORS,2010.0,Value
-TATAMOTORS,2011.0,Capital Returner
-TATAMOTORS,2013.0,Reinvestor
-TATAMOTORS,2015.0,Dividend Payer
-TATAMOTORS,2019.0,Reinvestor
-TATAMOTORS,2021.0,Dividend Payer
-ADANIPORTS,2007.0,Value
-ADANIPORTS,2010.0,Growth
-ADANIPORTS,2011.0,Value
-ADANIPORTS,2015.0,Cash Cow
-ADANIPORTS,2020.0,Cash Cow
-ADANIPORTS,2023.0,Growth
-ADANIPORTS,2024.0,Reinvestor
-TECHM,2007.0,Distress Signal
-TECHM,2008.0,Cash Cow
-TECHM,2017.0,Growth
-TECHM,2021.0,Deleveraging
-TECHM,2022.0,Cash Cow
-TECHM,2023.0,Deleveraging
+COALINDIA,2013.0,Capital Returner
+COALINDIA,2016.0,Reinvestor
+COALINDIA,2022.0,Dividend Payer
+COALINDIA,2024.0,Growth
+HINDALCO,2010.0,Dividend Payer
+HINDALCO,2012.0,Growth
+HINDALCO,2013.0,Cash Cow
+HINDALCO,2016.0,Growth
+HINDALCO,2018.0,Capital Returner
+HINDALCO,2021.0,Value
+TATAMOTORS,2007.0,Value
+TATAMOTORS,2008.0,Value
+TATAMOTORS,2010.0,Dividend Payer
+TATAMOTORS,2011.0,Growth
+TATAMOTORS,2013.0,Deleveraging
+TATAMOTORS,2015.0,Capital Returner
+TATAMOTORS,2019.0,Value
+TATAMOTORS,2021.0,Value
+ADANIPORTS,2007.0,Deleveraging
+ADANIPORTS,2010.0,Deleveraging
+ADANIPORTS,2011.0,Capital Returner
+ADANIPORTS,2015.0,Reinvestor
+ADANIPORTS,2020.0,Value
+ADANIPORTS,2023.0,Cash Cow
+ADANIPORTS,2024.0,Dividend Payer
+TECHM,2007.0,Deleveraging
+TECHM,2008.0,Reinvestor
+TECHM,2017.0,Value
+TECHM,2021.0,Cash Cow
+TECHM,2022.0,Deleveraging
+TECHM,2023.0,Capital Returner
 DRREDDY,2005.0,Reinvestor
-DRREDDY,2006.0,Distress Signal
+DRREDDY,2006.0,Dividend Payer
 DRREDDY,2009.0,Capital Returner
-DRREDDY,2015.0,Reinvestor
-DRREDDY,2017.0,Deleveraging
-DRREDDY,2018.0,Cash Cow
-DRREDDY,2024.0,Dividend Payer
-CIPLA,2005.0,Reinvestor
-CIPLA,2010.0,Reinvestor
-CIPLA,2011.0,Dividend Payer
-CIPLA,2013.0,Cash Cow
-CIPLA,2015.0,Deleveraging
+DRREDDY,2015.0,Value
+DRREDDY,2017.0,Growth
+DRREDDY,2018.0,Distress Signal
+DRREDDY,2024.0,Reinvestor
+CIPLA,2005.0,Growth
+CIPLA,2010.0,Distress Signal
+CIPLA,2011.0,Capital Returner
+CIPLA,2013.0,Distress Signal
+CIPLA,2015.0,Growth
 CIPLA,2016.0,Dividend Payer
-CIPLA,2018.0,Value
-CIPLA,2021.0,Value
-CIPLA,2023.0,Capital Returner
-BPCL,2005.0,Value
+CIPLA,2018.0,Growth
+CIPLA,2021.0,Distress Signal
+CIPLA,2023.0,Dividend Payer
+BPCL,2005.0,Distress Signal
 BPCL,2006.0,Capital Returner
-BPCL,2007.0,Capital Returner
-BPCL,2011.0,Dividend Payer
-BPCL,2012.0,Dividend Payer
-BPCL,2014.0,Value
-BPCL,2017.0,Reinvestor
+BPCL,2007.0,Deleveraging
+BPCL,2011.0,Capital Returner
+BPCL,2012.0,Capital Returner
+BPCL,2014.0,Deleveraging
+BPCL,2017.0,Dividend Payer
 BPCL,2018.0,Deleveraging
-BPCL,2024.0,Deleveraging
-ULTRACEMCO,2010.0,Dividend Payer
-ULTRACEMCO,2011.0,Growth
-ULTRACEMCO,2013.0,Deleveraging
+BPCL,2024.0,Capital Returner
+ULTRACEMCO,2010.0,Reinvestor
+ULTRACEMCO,2011.0,Capital Returner
+ULTRACEMCO,2013.0,Growth
 ULTRACEMCO,2017.0,Capital Returner
-ULTRACEMCO,2020.0,Deleveraging
-ULTRACEMCO,2021.0,Dividend Payer
-AMBUJACEM,2006.0,Distress Signal
-AMBUJACEM,2007.0,Cash Cow
-AMBUJACEM,2009.0,Reinvestor
-AMBUJACEM,2013.0,Capital Returner
-AMBUJACEM,2017.0,Reinvestor
-AMBUJACEM,2019.0,Capital Returner
-AMBUJACEM,2022.0,Growth
-AMBUJACEM,2024.0,Capital Returner
-DABUR,2006.0,Dividend Payer
-DABUR,2010.0,Growth
-DABUR,2012.0,Value
-DABUR,2014.0,Deleveraging
-DABUR,2018.0,Dividend Payer
-DABUR,2019.0,Growth
+ULTRACEMCO,2020.0,Value
+ULTRACEMCO,2021.0,Cash Cow
+AMBUJACEM,2006.0,Reinvestor
+AMBUJACEM,2007.0,Dividend Payer
+AMBUJACEM,2009.0,Growth
+AMBUJACEM,2013.0,Value
+AMBUJACEM,2017.0,Cash Cow
+AMBUJACEM,2019.0,Reinvestor
+AMBUJACEM,2022.0,Value
+AMBUJACEM,2024.0,Dividend Payer
+DABUR,2006.0,Value
+DABUR,2010.0,Deleveraging
+DABUR,2012.0,Dividend Payer
+DABUR,2014.0,Value
+DABUR,2018.0,Value
+DABUR,2019.0,Deleveraging
 DABUR,2021.0,Value
 DABUR,2022.0,Cash Cow
-DABUR,2023.0,Dividend Payer
-BRITANNIA,2009.0,Distress Signal
-BRITANNIA,2013.0,Value
-BRITANNIA,2014.0,Capital Returner
-BRITANNIA,2015.0,Deleveraging
-BRITANNIA,2016.0,Growth
-BRITANNIA,2019.0,Deleveraging
-BRITANNIA,2022.0,Distress Signal
-BRITANNIA,2024.0,Cash Cow
-HEROMOTOCO,2005.0,Distress Signal
-HEROMOTOCO,2006.0,Value
-HEROMOTOCO,2009.0,Cash Cow
-HEROMOTOCO,2013.0,Cash Cow
-HEROMOTOCO,2017.0,Deleveraging
-HEROMOTOCO,2020.0,Capital Returner
-HEROMOTOCO,2021.0,Reinvestor
+DABUR,2023.0,Deleveraging
+BRITANNIA,2009.0,Growth
+BRITANNIA,2013.0,Distress Signal
+BRITANNIA,2014.0,Cash Cow
+BRITANNIA,2015.0,Growth
+BRITANNIA,2016.0,Deleveraging
+BRITANNIA,2019.0,Growth
+BRITANNIA,2022.0,Cash Cow
+BRITANNIA,2024.0,Distress Signal
+HEROMOTOCO,2005.0,Value
+HEROMOTOCO,2006.0,Cash Cow
+HEROMOTOCO,2009.0,Growth
+HEROMOTOCO,2013.0,Growth
+HEROMOTOCO,2017.0,Cash Cow
+HEROMOTOCO,2020.0,Deleveraging
+HEROMOTOCO,2021.0,Cash Cow
 EICHERMOT,2007.0,Dividend Payer
 EICHERMOT,2009.0,Capital Returner
-EICHERMOT,2012.0,Reinvestor
-EICHERMOT,2017.0,Distress Signal
-EICHERMOT,2018.0,Value
-EICHERMOT,2021.0,Value
-EICHERMOT,2024.0,Distress Signal
+EICHERMOT,2012.0,Growth
+EICHERMOT,2017.0,Capital Returner
+EICHERMOT,2018.0,Distress Signal
+EICHERMOT,2021.0,Distress Signal
+EICHERMOT,2024.0,Reinvestor
 TITAN,2006.0,Distress Signal
-TITAN,2008.0,Deleveraging
-TITAN,2009.0,Value
-TITAN,2015.0,Growth
-TITAN,2016.0,Capital Returner
-TITAN,2023.0,Deleveraging
-MARICO,2005.0,Growth
-MARICO,2007.0,Reinvestor
-MARICO,2008.0,Growth
-MARICO,2010.0,Cash Cow
-MARICO,2011.0,Cash Cow
-MARICO,2012.0,Deleveraging
-MARICO,2013.0,Deleveraging
-MARICO,2014.0,Dividend Payer
+TITAN,2008.0,Capital Returner
+TITAN,2009.0,Cash Cow
+TITAN,2015.0,Deleveraging
+TITAN,2016.0,Dividend Payer
+TITAN,2023.0,Reinvestor
+MARICO,2005.0,Reinvestor
+MARICO,2007.0,Distress Signal
+MARICO,2008.0,Reinvestor
+MARICO,2010.0,Dividend Payer
+MARICO,2011.0,Distress Signal
+MARICO,2012.0,Distress Signal
+MARICO,2013.0,Growth
+MARICO,2014.0,Value
 MARICO,2022.0,Growth
-MARICO,2024.0,Cash Cow
-VEDL,2005.0,Distress Signal
-VEDL,2011.0,Dividend Payer
-VEDL,2012.0,Reinvestor
-VEDL,2015.0,Growth
-VEDL,2017.0,Dividend Payer
-VEDL,2018.0,Value
-VEDL,2021.0,Distress Signal
-JSPL,2005.0,Dividend Payer
-JSPL,2007.0,Deleveraging
-JSPL,2015.0,Reinvestor
-JSPL,2017.0,Value
-JSPL,2019.0,Distress Signal
-GRASIM,2008.0,Capital Returner
+MARICO,2024.0,Deleveraging
+VEDL,2005.0,Growth
+VEDL,2011.0,Reinvestor
+VEDL,2012.0,Distress Signal
+VEDL,2015.0,Deleveraging
+VEDL,2017.0,Reinvestor
+VEDL,2018.0,Reinvestor
+VEDL,2021.0,Deleveraging
+JSPL,2005.0,Value
+JSPL,2007.0,Reinvestor
+JSPL,2015.0,Deleveraging
+JSPL,2017.0,Growth
+JSPL,2019.0,Growth
+GRASIM,2008.0,Growth
 GRASIM,2014.0,Capital Returner
-GRASIM,2017.0,Cash Cow
-GRASIM,2023.0,Distress Signal
-GRASIM,2024.0,Cash Cow
+GRASIM,2017.0,Capital Returner
+GRASIM,2023.0,Dividend Payer
+GRASIM,2024.0,Capital Returner
 SHREECEM,2007.0,Reinvestor
-SHREECEM,2009.0,Value
-SHREECEM,2010.0,Capital Returner
-SHREECEM,2014.0,Distress Signal
-SHREECEM,2022.0,Distress Signal
-BAJAJAUTO,2005.0,Value
-BAJAJAUTO,2006.0,Distress Signal
-BAJAJAUTO,2009.0,Dividend Payer
-BAJAJAUTO,2013.0,Growth
-BAJAJAUTO,2014.0,Cash Cow
-BAJAJAUTO,2015.0,Capital Returner
-BAJAJAUTO,2019.0,Value
-BAJAJAUTO,2022.0,Value
-BAJAJAUTO,2023.0,Value
+SHREECEM,2009.0,Distress Signal
+SHREECEM,2010.0,Reinvestor
+SHREECEM,2014.0,Deleveraging
+SHREECEM,2022.0,Deleveraging
+BAJAJAUTO,2005.0,Cash Cow
+BAJAJAUTO,2006.0,Reinvestor
+BAJAJAUTO,2009.0,Distress Signal
+BAJAJAUTO,2013.0,Dividend Payer
+BAJAJAUTO,2014.0,Growth
+BAJAJAUTO,2015.0,Deleveraging
+BAJAJAUTO,2019.0,Capital Returner
+BAJAJAUTO,2022.0,Cash Cow
+BAJAJAUTO,2023.0,Dividend Payer
 M&M,2005.0,Deleveraging
 M&M,2011.0,Value
-M&M,2014.0,Deleveraging
-M&M,2016.0,Cash Cow
+M&M,2014.0,Cash Cow
+M&M,2016.0,Value
 M&M,2019.0,Reinvestor
-M&M,2020.0,Value
-M&M,2022.0,Cash Cow
-M&M,2023.0,Deleveraging
+M&M,2020.0,Deleveraging
+M&M,2022.0,Value
+M&M,2023.0,Growth
 ADANIENT,2007.0,Growth
-ADANIENT,2011.0,Distress Signal
-ADANIENT,2013.0,Cash Cow
+ADANIENT,2011.0,Growth
+ADANIENT,2013.0,Deleveraging
 ADANIENT,2018.0,Capital Returner
-ADANIENT,2020.0,Growth
-ADANIENT,2021.0,Capital Returner
-ADANIENT,2022.0,Cash Cow
-DIVISLAB,2006.0,Reinvestor
+ADANIENT,2020.0,Value
+ADANIENT,2021.0,Growth
+ADANIENT,2022.0,Reinvestor
+DIVISLAB,2006.0,Capital Returner
 DIVISLAB,2007.0,Capital Returner
-DIVISLAB,2012.0,Dividend Payer
-DIVISLAB,2022.0,Growth
-INDUSINDBK,2006.0,Value
-INDUSINDBK,2008.0,Deleveraging
-INDUSINDBK,2010.0,Capital Returner
-INDUSINDBK,2011.0,Reinvestor
-INDUSINDBK,2014.0,Capital Returner
-INDUSINDBK,2015.0,Value
-INDUSINDBK,2018.0,Reinvestor
-TATAPOWER,2007.0,Value
-TATAPOWER,2009.0,Cash Cow
+DIVISLAB,2012.0,Growth
+DIVISLAB,2022.0,Reinvestor
+INDUSINDBK,2006.0,Capital Returner
+INDUSINDBK,2008.0,Value
+INDUSINDBK,2010.0,Growth
+INDUSINDBK,2011.0,Distress Signal
+INDUSINDBK,2014.0,Reinvestor
+INDUSINDBK,2015.0,Deleveraging
+INDUSINDBK,2018.0,Distress Signal
+TATAPOWER,2007.0,Dividend Payer
+TATAPOWER,2009.0,Dividend Payer
 TATAPOWER,2010.0,Reinvestor
-TATAPOWER,2014.0,Deleveraging
+TATAPOWER,2014.0,Dividend Payer
 TATAPOWER,2015.0,Reinvestor
-TATAPOWER,2017.0,Dividend Payer
-TATAPOWER,2018.0,Cash Cow
+TATAPOWER,2017.0,Reinvestor
+TATAPOWER,2018.0,Value
 TATAPOWER,2020.0,Cash Cow
-TATAELXSI,2007.0,Deleveraging
-TATAELXSI,2008.0,Capital Returner
-TATAELXSI,2009.0,Value
-TATAELXSI,2015.0,Value
-TATAELXSI,2020.0,Cash Cow
-TATAELXSI,2021.0,Growth
-TATAELXSI,2022.0,Value
-PIDILITIND,2009.0,Distress Signal
-PIDILITIND,2014.0,Deleveraging
-PIDILITIND,2017.0,Growth
-PIDILITIND,2022.0,Deleveraging
-PIDILITIND,2024.0,Reinvestor
-GODREJCP,2005.0,Dividend Payer
-GODREJCP,2007.0,Value
-GODREJCP,2011.0,Dividend Payer
-GODREJCP,2012.0,Distress Signal
-GODREJCP,2020.0,Value
-GODREJCP,2021.0,Reinvestor
-HAVELLS,2005.0,Cash Cow
-HAVELLS,2010.0,Growth
-HAVELLS,2014.0,Dividend Payer
-HAVELLS,2017.0,Distress Signal
-HAVELLS,2022.0,Distress Signal
-BAJAJFINSV,2005.0,Capital Returner
-BAJAJFINSV,2006.0,Growth
-BAJAJFINSV,2009.0,Value
-BAJAJFINSV,2013.0,Deleveraging
-BAJAJFINSV,2014.0,Deleveraging
-BAJAJFINSV,2015.0,Dividend Payer
+TATAELXSI,2007.0,Capital Returner
+TATAELXSI,2008.0,Cash Cow
+TATAELXSI,2009.0,Capital Returner
+TATAELXSI,2015.0,Reinvestor
+TATAELXSI,2020.0,Distress Signal
+TATAELXSI,2021.0,Cash Cow
+TATAELXSI,2022.0,Distress Signal
+PIDILITIND,2009.0,Capital Returner
+PIDILITIND,2014.0,Reinvestor
+PIDILITIND,2017.0,Value
+PIDILITIND,2022.0,Cash Cow
+PIDILITIND,2024.0,Value
+GODREJCP,2005.0,Growth
+GODREJCP,2007.0,Distress Signal
+GODREJCP,2011.0,Deleveraging
+GODREJCP,2012.0,Deleveraging
+GODREJCP,2020.0,Cash Cow
+GODREJCP,2021.0,Deleveraging
+HAVELLS,2005.0,Value
+HAVELLS,2010.0,Distress Signal
+HAVELLS,2014.0,Value
+HAVELLS,2017.0,Capital Returner
+HAVELLS,2022.0,Reinvestor
+BAJAJFINSV,2005.0,Distress Signal
+BAJAJFINSV,2006.0,Distress Signal
+BAJAJFINSV,2009.0,Dividend Payer
+BAJAJFINSV,2013.0,Distress Signal
+BAJAJFINSV,2014.0,Capital Returner
+BAJAJFINSV,2015.0,Capital Returner
 BAJAJFINSV,2016.0,Distress Signal
-BAJAJFINSV,2018.0,Dividend Payer
+BAJAJFINSV,2018.0,Value
 BAJAJFINSV,2022.0,Growth
-BAJAJFINSV,2023.0,Value
-LUPIN,2006.0,Distress Signal
-LUPIN,2007.0,Distress Signal
-LUPIN,2010.0,Cash Cow
-LUPIN,2012.0,Growth
-LUPIN,2017.0,Distress Signal
-LUPIN,2023.0,Growth
-BAJAJHLDNG,2006.0,Deleveraging
-BAJAJHLDNG,2007.0,Cash Cow
-BAJAJHLDNG,2011.0,Capital Returner
-BAJAJHLDNG,2012.0,Distress Signal
-BAJAJHLDNG,2014.0,Value
-BAJAJHLDNG,2016.0,Distress Signal
-BAJAJHLDNG,2020.0,Distress Signal
-BAJAJHLDNG,2022.0,Reinvestor
-CANBK,2005.0,Capital Returner
-CANBK,2006.0,Capital Returner
-CANBK,2012.0,Value
-CANBK,2015.0,Dividend Payer
-CANBK,2017.0,Distress Signal
-CANBK,2019.0,Dividend Payer
-CANBK,2024.0,Deleveraging
-BANKBARODA,2007.0,Value
-BANKBARODA,2009.0,Distress Signal
-BANKBARODA,2013.0,Growth
-BANKBARODA,2016.0,Growth
-BANKBARODA,2018.0,Deleveraging
-BANKBARODA,2020.0,Growth
-BANKBARODA,2021.0,Cash Cow
-BANKBARODA,2022.0,Reinvestor
-UNIONBANK,2006.0,Distress Signal
-UNIONBANK,2010.0,Dividend Payer
+BAJAJFINSV,2023.0,Dividend Payer
+LUPIN,2006.0,Capital Returner
+LUPIN,2007.0,Dividend Payer
+LUPIN,2010.0,Deleveraging
+LUPIN,2012.0,Cash Cow
+LUPIN,2017.0,Reinvestor
+LUPIN,2023.0,Reinvestor
+BAJAJHLDNG,2006.0,Distress Signal
+BAJAJHLDNG,2007.0,Capital Returner
+BAJAJHLDNG,2011.0,Growth
+BAJAJHLDNG,2012.0,Dividend Payer
+BAJAJHLDNG,2014.0,Deleveraging
+BAJAJHLDNG,2016.0,Cash Cow
+BAJAJHLDNG,2020.0,Dividend Payer
+BAJAJHLDNG,2022.0,Cash Cow
+CANBK,2005.0,Cash Cow
+CANBK,2006.0,Growth
+CANBK,2012.0,Distress Signal
+CANBK,2015.0,Value
+CANBK,2017.0,Capital Returner
+CANBK,2019.0,Growth
+CANBK,2024.0,Value
+BANKBARODA,2007.0,Capital Returner
+BANKBARODA,2009.0,Growth
+BANKBARODA,2013.0,Capital Returner
+BANKBARODA,2016.0,Deleveraging
+BANKBARODA,2018.0,Value
+BANKBARODA,2020.0,Dividend Payer
+BANKBARODA,2021.0,Value
+BANKBARODA,2022.0,Distress Signal
+UNIONBANK,2006.0,Deleveraging
+UNIONBANK,2010.0,Reinvestor
 UNIONBANK,2015.0,Dividend Payer
-UNIONBANK,2017.0,Capital Returner
+UNIONBANK,2017.0,Deleveraging
 UNIONBANK,2018.0,Distress Signal
-UNIONBANK,2024.0,Capital Returner
-PNB,2008.0,Capital Returner
+UNIONBANK,2024.0,Distress Signal
+PNB,2008.0,Deleveraging
 PNB,2009.0,Cash Cow
-PNB,2015.0,Value
-PNB,2018.0,Value
-FEDERALBNK,2005.0,Growth
-FEDERALBNK,2018.0,Cash Cow
-FEDERALBNK,2020.0,Dividend Payer
-FEDERALBNK,2022.0,Distress Signal
-IDFCFIRSTB,2008.0,Reinvestor
-IDFCFIRSTB,2011.0,Growth
-IDFCFIRSTB,2016.0,Value
-IDFCFIRSTB,2022.0,Capital Returner
-IDFCFIRSTB,2023.0,Deleveraging
-IDFCFIRSTB,2024.0,Deleveraging
-HDFCLIFE,2009.0,Reinvestor
-HDFCLIFE,2013.0,Cash Cow
+PNB,2015.0,Distress Signal
+PNB,2018.0,Capital Returner
+FEDERALBNK,2005.0,Cash Cow
+FEDERALBNK,2018.0,Deleveraging
+FEDERALBNK,2020.0,Cash Cow
+FEDERALBNK,2022.0,Deleveraging
+IDFCFIRSTB,2008.0,Cash Cow
+IDFCFIRSTB,2011.0,Distress Signal
+IDFCFIRSTB,2016.0,Capital Returner
+IDFCFIRSTB,2022.0,Cash Cow
+IDFCFIRSTB,2023.0,Reinvestor
+IDFCFIRSTB,2024.0,Value
+HDFCLIFE,2009.0,Cash Cow
+HDFCLIFE,2013.0,Distress Signal
 HDFCLIFE,2015.0,Capital Returner
-HDFCLIFE,2018.0,Dividend Payer
+HDFCLIFE,2018.0,Reinvestor
 HDFCLIFE,2019.0,Dividend Payer
 HDFCLIFE,2020.0,Capital Returner
-HDFCLIFE,2023.0,Dividend Payer
-HDFCLIFE,2024.0,Distress Signal
+HDFCLIFE,2023.0,Value
+HDFCLIFE,2024.0,Growth
 SBILIFE,2006.0,Capital Returner
 SBILIFE,2007.0,Cash Cow
-SBILIFE,2008.0,Reinvestor
-SBILIFE,2013.0,Growth
-SBILIFE,2015.0,Cash Cow
-SBILIFE,2017.0,Reinvestor
-SBILIFE,2020.0,Value
+SBILIFE,2008.0,Deleveraging
+SBILIFE,2013.0,Cash Cow
+SBILIFE,2015.0,Distress Signal
+SBILIFE,2017.0,Growth
+SBILIFE,2020.0,Dividend Payer
 SBILIFE,2022.0,Growth
-SBILIFE,2024.0,Cash Cow
-ICICIPRULI,2008.0,Reinvestor
+SBILIFE,2024.0,Dividend Payer
+ICICIPRULI,2008.0,Growth
 ICICIPRULI,2014.0,Capital Returner
-ICICIPRULI,2020.0,Dividend Payer
-ICICIPRULI,2023.0,Value
-SAIL,2005.0,Deleveraging
-SAIL,2012.0,Distress Signal
-SAIL,2013.0,Growth
-SAIL,2016.0,Cash Cow
+ICICIPRULI,2020.0,Value
+ICICIPRULI,2023.0,Distress Signal
+SAIL,2005.0,Cash Cow
+SAIL,2012.0,Capital Returner
+SAIL,2013.0,Reinvestor
+SAIL,2016.0,Value
 SAIL,2017.0,Reinvestor
-SAIL,2021.0,Growth
-NMDC,2005.0,Distress Signal
-NMDC,2007.0,Dividend Payer
+SAIL,2021.0,Distress Signal
+NMDC,2005.0,Reinvestor
+NMDC,2007.0,Deleveraging
 NMDC,2015.0,Deleveraging
-NMDC,2017.0,Value
-NMDC,2020.0,Deleveraging
-NALCO,2005.0,Reinvestor
-NALCO,2008.0,Dividend Payer
-NALCO,2010.0,Capital Returner
-NALCO,2015.0,Deleveraging
-NALCO,2022.0,Deleveraging
-NALCO,2024.0,Capital Returner
-NHPC,2006.0,Dividend Payer
+NMDC,2017.0,Capital Returner
+NMDC,2020.0,Growth
+NALCO,2005.0,Growth
+NALCO,2008.0,Reinvestor
+NALCO,2010.0,Value
+NALCO,2015.0,Distress Signal
+NALCO,2022.0,Reinvestor
+NALCO,2024.0,Reinvestor
+NHPC,2006.0,Distress Signal
 NHPC,2007.0,Dividend Payer
-NHPC,2022.0,Deleveraging
-NHPC,2023.0,Deleveraging
-POWERINDIA,2009.0,Cash Cow
-POWERINDIA,2010.0,Value
-POWERINDIA,2013.0,Deleveraging
-POWERINDIA,2016.0,Distress Signal
-POWERINDIA,2017.0,Capital Returner
-POWERINDIA,2023.0,Distress Signal
-IOCL,2005.0,Distress Signal
-IOCL,2007.0,Growth
-IOCL,2008.0,Value
-IOCL,2011.0,Capital Returner
-IOCL,2013.0,Distress Signal
-IOCL,2017.0,Distress Signal
-IOCL,2019.0,Distress Signal
-IOCL,2022.0,Growth
-IOCL,2023.0,Deleveraging
-IOCL,2024.0,Distress Signal
+NHPC,2022.0,Growth
+NHPC,2023.0,Dividend Payer
+POWERINDIA,2009.0,Deleveraging
+POWERINDIA,2010.0,Deleveraging
+POWERINDIA,2013.0,Dividend Payer
+POWERINDIA,2016.0,Cash Cow
+POWERINDIA,2017.0,Growth
+POWERINDIA,2023.0,Dividend Payer
+IOCL,2005.0,Growth
+IOCL,2007.0,Reinvestor
+IOCL,2008.0,Cash Cow
+IOCL,2011.0,Cash Cow
+IOCL,2013.0,Dividend Payer
+IOCL,2017.0,Dividend Payer
+IOCL,2019.0,Growth
+IOCL,2022.0,Deleveraging
+IOCL,2023.0,Growth
+IOCL,2024.0,Deleveraging
 HPCL,2007.0,Value
-HPCL,2011.0,Deleveraging
-HPCL,2019.0,Deleveraging
-HPCL,2020.0,Dividend Payer
-HPCL,2021.0,Deleveraging
-HPCL,2023.0,Dividend Payer
-MUTHOOTFIN,2005.0,Cash Cow
-MUTHOOTFIN,2007.0,Distress Signal
-MUTHOOTFIN,2009.0,Cash Cow
-MUTHOOTFIN,2011.0,Dividend Payer
-MUTHOOTFIN,2014.0,Dividend Payer
-MUTHOOTFIN,2016.0,Growth
-MUTHOOTFIN,2017.0,Reinvestor
-MUTHOOTFIN,2024.0,Cash Cow
-BANDHANBNK,2009.0,Cash Cow
-BANDHANBNK,2012.0,Value
-BANDHANBNK,2017.0,Growth
-BANDHANBNK,2020.0,Value
-BANDHANBNK,2021.0,Value
-BANDHANBNK,2023.0,Dividend Payer
-BANDHANBNK,2024.0,Capital Returner
-TORNTPHARM,2006.0,Cash Cow
-TORNTPHARM,2009.0,Dividend Payer
-TORNTPHARM,2016.0,Distress Signal
-TORNTPHARM,2019.0,Growth
-ALKEM,2009.0,Cash Cow
-ALKEM,2010.0,Deleveraging
-ALKEM,2012.0,Distress Signal
-ALKEM,2015.0,Cash Cow
-ALKEM,2016.0,Cash Cow
-ALKEM,2018.0,Reinvestor
+HPCL,2011.0,Capital Returner
+HPCL,2019.0,Distress Signal
+HPCL,2020.0,Growth
+HPCL,2021.0,Distress Signal
+HPCL,2023.0,Deleveraging
+MUTHOOTFIN,2005.0,Distress Signal
+MUTHOOTFIN,2007.0,Growth
+MUTHOOTFIN,2009.0,Reinvestor
+MUTHOOTFIN,2011.0,Reinvestor
+MUTHOOTFIN,2014.0,Capital Returner
+MUTHOOTFIN,2016.0,Reinvestor
+MUTHOOTFIN,2017.0,Distress Signal
+MUTHOOTFIN,2024.0,Value
+BANDHANBNK,2009.0,Reinvestor
+BANDHANBNK,2012.0,Deleveraging
+BANDHANBNK,2017.0,Value
+BANDHANBNK,2020.0,Growth
+BANDHANBNK,2021.0,Reinvestor
+BANDHANBNK,2023.0,Reinvestor
+BANDHANBNK,2024.0,Reinvestor
+TORNTPHARM,2006.0,Capital Returner
+TORNTPHARM,2009.0,Growth
+TORNTPHARM,2016.0,Cash Cow
+TORNTPHARM,2019.0,Reinvestor
+ALKEM,2009.0,Dividend Payer
+ALKEM,2010.0,Capital Returner
+ALKEM,2012.0,Reinvestor
+ALKEM,2015.0,Distress Signal
+ALKEM,2016.0,Dividend Payer
+ALKEM,2018.0,Value
 ALKEM,2021.0,Growth
-ALKEM,2022.0,Value
-LALPATHLAB,2008.0,Distress Signal
-LALPATHLAB,2011.0,Reinvestor
-LALPATHLAB,2013.0,Capital Returner
-LALPATHLAB,2015.0,Value
-LALPATHLAB,2017.0,Growth
+ALKEM,2022.0,Growth
+LALPATHLAB,2008.0,Value
+LALPATHLAB,2011.0,Capital Returner
+LALPATHLAB,2013.0,Distress Signal
+LALPATHLAB,2015.0,Cash Cow
+LALPATHLAB,2017.0,Distress Signal
 LALPATHLAB,2018.0,Value
-LALPATHLAB,2024.0,Deleveraging
-BIOCON,2005.0,Value
-BIOCON,2015.0,Dividend Payer
-BIOCON,2016.0,Reinvestor
-BIOCON,2022.0,Deleveraging
+LALPATHLAB,2024.0,Dividend Payer
+BIOCON,2005.0,Deleveraging
+BIOCON,2015.0,Growth
+BIOCON,2016.0,Growth
+BIOCON,2022.0,Capital Returner
 BIOCON,2023.0,Growth
-ZYDUSLIFE,2005.0,Distress Signal
-ZYDUSLIFE,2012.0,Reinvestor
-ZYDUSLIFE,2014.0,Growth
-ZYDUSLIFE,2021.0,Growth
-ZYDUSLIFE,2022.0,Reinvestor
-ABBOTINDIA,2009.0,Value
-ABBOTINDIA,2010.0,Distress Signal
-ABBOTINDIA,2011.0,Dividend Payer
-ABBOTINDIA,2017.0,Capital Returner
-ABBOTINDIA,2021.0,Growth
-ABBOTINDIA,2023.0,Distress Signal
-APOLLOHOSP,2015.0,Deleveraging
-APOLLOHOSP,2018.0,Reinvestor
-APOLLOHOSP,2019.0,Dividend Payer
-APOLLOHOSP,2021.0,Distress Signal
-APOLLOHOSP,2024.0,Growth
-MAXHEALTH,2005.0,Value
-MAXHEALTH,2007.0,Capital Returner
-MAXHEALTH,2018.0,Growth
-MAXHEALTH,2020.0,Reinvestor
-MAXHEALTH,2023.0,Dividend Payer
-MAXHEALTH,2024.0,Deleveraging
-FORTIS,2007.0,Reinvestor
-FORTIS,2008.0,Distress Signal
-FORTIS,2011.0,Value
-FORTIS,2019.0,Dividend Payer
-FORTIS,2020.0,Value
-FORTIS,2021.0,Reinvestor
-FORTIS,2022.0,Value
-DEVYANI,2005.0,Capital Returner
-DEVYANI,2006.0,Growth
+ZYDUSLIFE,2005.0,Value
+ZYDUSLIFE,2012.0,Deleveraging
+ZYDUSLIFE,2014.0,Value
+ZYDUSLIFE,2021.0,Deleveraging
+ZYDUSLIFE,2022.0,Dividend Payer
+ABBOTINDIA,2009.0,Dividend Payer
+ABBOTINDIA,2010.0,Dividend Payer
+ABBOTINDIA,2011.0,Distress Signal
+ABBOTINDIA,2017.0,Deleveraging
+ABBOTINDIA,2021.0,Capital Returner
+ABBOTINDIA,2023.0,Value
+APOLLOHOSP,2015.0,Growth
+APOLLOHOSP,2018.0,Deleveraging
+APOLLOHOSP,2019.0,Distress Signal
+APOLLOHOSP,2021.0,Dividend Payer
+APOLLOHOSP,2024.0,Deleveraging
+MAXHEALTH,2005.0,Cash Cow
+MAXHEALTH,2007.0,Growth
+MAXHEALTH,2018.0,Value
+MAXHEALTH,2020.0,Deleveraging
+MAXHEALTH,2023.0,Growth
+MAXHEALTH,2024.0,Dividend Payer
+FORTIS,2007.0,Cash Cow
+FORTIS,2008.0,Dividend Payer
+FORTIS,2011.0,Growth
+FORTIS,2019.0,Deleveraging
+FORTIS,2020.0,Cash Cow
+FORTIS,2021.0,Dividend Payer
+FORTIS,2022.0,Distress Signal
+DEVYANI,2005.0,Value
+DEVYANI,2006.0,Distress Signal
 DEVYANI,2012.0,Cash Cow
-DEVYANI,2014.0,Reinvestor
-DEVYANI,2017.0,Cash Cow
-DEVYANI,2020.0,Cash Cow
+DEVYANI,2014.0,Growth
+DEVYANI,2017.0,Deleveraging
+DEVYANI,2020.0,Capital Returner
 DEVYANI,2023.0,Dividend Payer
-DEVYANI,2024.0,Distress Signal
-OBEROIRLTY,2010.0,Dividend Payer
-OBEROIRLTY,2011.0,Cash Cow
-OBEROIRLTY,2016.0,Capital Returner
-OBEROIRLTY,2020.0,Distress Signal
-OBEROIRLTY,2024.0,Reinvestor
-INDIANHOTL,2006.0,Deleveraging
-INDIANHOTL,2008.0,Reinvestor
-INDIANHOTL,2010.0,Value
-INDIANHOTL,2020.0,Capital Returner
-INDIANHOTL,2023.0,Value
+DEVYANI,2024.0,Reinvestor
+OBEROIRLTY,2010.0,Capital Returner
+OBEROIRLTY,2011.0,Growth
+OBEROIRLTY,2016.0,Growth
+OBEROIRLTY,2020.0,Reinvestor
+OBEROIRLTY,2024.0,Distress Signal
+INDIANHOTL,2006.0,Distress Signal
+INDIANHOTL,2008.0,Distress Signal
+INDIANHOTL,2010.0,Growth
+INDIANHOTL,2020.0,Deleveraging
+INDIANHOTL,2023.0,Reinvestor
 TVSMOTOR,2006.0,Reinvestor
-TVSMOTOR,2009.0,Value
-TVSMOTOR,2011.0,Growth
-TVSMOTOR,2012.0,Distress Signal
-TVSMOTOR,2015.0,Value
-TVSMOTOR,2023.0,Capital Returner
+TVSMOTOR,2009.0,Cash Cow
+TVSMOTOR,2011.0,Capital Returner
+TVSMOTOR,2012.0,Reinvestor
+TVSMOTOR,2015.0,Reinvestor
+TVSMOTOR,2023.0,Distress Signal
 VOLTAS,2007.0,Capital Returner
-VOLTAS,2008.0,Capital Returner
-VOLTAS,2011.0,Dividend Payer
-VOLTAS,2012.0,Growth
-VOLTAS,2013.0,Distress Signal
-VOLTAS,2014.0,Value
+VOLTAS,2008.0,Dividend Payer
+VOLTAS,2011.0,Distress Signal
+VOLTAS,2012.0,Deleveraging
+VOLTAS,2013.0,Dividend Payer
+VOLTAS,2014.0,Reinvestor
 VOLTAS,2019.0,Dividend Payer
-ASTRAL,2008.0,Cash Cow
-ASTRAL,2009.0,Growth
-ASTRAL,2010.0,Reinvestor
-ASTRAL,2011.0,Cash Cow
-ASTRAL,2016.0,Deleveraging
-ASTRAL,2018.0,Distress Signal
-ASTRAL,2020.0,Dividend Payer
-ASTRAL,2021.0,Growth
+ASTRAL,2008.0,Value
+ASTRAL,2009.0,Deleveraging
+ASTRAL,2010.0,Growth
+ASTRAL,2011.0,Capital Returner
+ASTRAL,2016.0,Value
+ASTRAL,2018.0,Value
+ASTRAL,2020.0,Cash Cow
+ASTRAL,2021.0,Reinvestor
 ASTRAL,2022.0,Growth
-AARTIIND,2006.0,Growth
-AARTIIND,2008.0,Reinvestor
-AARTIIND,2009.0,Capital Returner
-AARTIIND,2011.0,Reinvestor
+AARTIIND,2006.0,Capital Returner
+AARTIIND,2008.0,Deleveraging
+AARTIIND,2009.0,Distress Signal
+AARTIIND,2011.0,Growth
 AARTIIND,2019.0,Value
-AARTIIND,2021.0,Deleveraging
-AARTIIND,2023.0,Reinvestor
-TORNTPOWER,2011.0,Capital Returner
+AARTIIND,2021.0,Growth
+AARTIIND,2023.0,Distress Signal
+TORNTPOWER,2011.0,Deleveraging
 TORNTPOWER,2013.0,Growth
 TORNTPOWER,2015.0,Value
-TORNTPOWER,2017.0,Dividend Payer
-TORNTPOWER,2018.0,Distress Signal
-TORNTPOWER,2023.0,Growth
-M&MFIN,2005.0,Deleveraging
-M&MFIN,2006.0,Dividend Payer
-M&MFIN,2007.0,Growth
-M&MFIN,2012.0,Cash Cow
+TORNTPOWER,2017.0,Growth
+TORNTPOWER,2018.0,Growth
+TORNTPOWER,2023.0,Cash Cow
+M&MFIN,2005.0,Reinvestor
+M&MFIN,2006.0,Value
+M&MFIN,2007.0,Cash Cow
+M&MFIN,2012.0,Capital Returner
 M&MFIN,2015.0,Deleveraging
-M&MFIN,2016.0,Growth
-M&MFIN,2020.0,Distress Signal
+M&MFIN,2016.0,Capital Returner
+M&MFIN,2020.0,Capital Returner
 M&MFIN,2021.0,Deleveraging
-M&MFIN,2024.0,Deleveraging
-CHOLAFIN,2008.0,Cash Cow
-CHOLAFIN,2009.0,Reinvestor
-CHOLAFIN,2011.0,Distress Signal
+M&MFIN,2024.0,Reinvestor
+CHOLAFIN,2008.0,Dividend Payer
+CHOLAFIN,2009.0,Deleveraging
+CHOLAFIN,2011.0,Capital Returner
 CHOLAFIN,2015.0,Value

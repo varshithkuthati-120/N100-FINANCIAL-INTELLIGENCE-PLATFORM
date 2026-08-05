@@ -1,0 +1,498 @@
+company_id,type,rule_id,text,confidence_pct
+RELIANCE,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+RELIANCE,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,85
+RELIANCE,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+RELIANCE,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+TCS,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TCS,con,C1,Debt-to-equity ratio of 2.1 is elevated for a non-financial company and warrants monitoring,90
+TCS,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+HDFCBANK,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+HDFCBANK,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+HDFCBANK,con,C1,Debt-to-equity ratio of 2.3 is elevated for a non-financial company and warrants monitoring,90
+HDFCBANK,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+HDFCBANK,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+INFY,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+INFY,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+INFY,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+ICICIBANK,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+ICICIBANK,con,C1,Debt-to-equity ratio of 2.6 is elevated for a non-financial company and warrants monitoring,90
+ICICIBANK,con,C5,Revenue contraction over consecutive years indicates demand weakness or market share loss,80
+ICICIBANK,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+ICICIBANK,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+ICICIBANK,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+HINDUNILVR,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+HINDUNILVR,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+HINDUNILVR,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+SBIN,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+SBIN,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+SBIN,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+SBIN,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+SBIN,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+SBIN,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+SBIN,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+BHARTIARTL,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+BHARTIARTL,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+BHARTIARTL,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BHARTIARTL,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+BHARTIARTL,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+BHARTIARTL,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+BHARTIARTL,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+BHARTIARTL,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+ITC,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+ITC,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+ITC,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+ITC,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+ITC,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+ITC,con,C5,Revenue contraction over consecutive years indicates demand weakness or market share loss,80
+ITC,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+ITC,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+ITC,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+KOTAKBANK,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+KOTAKBANK,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+KOTAKBANK,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+KOTAKBANK,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+KOTAKBANK,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+LT,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+LT,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+LT,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+LT,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+LT,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+AXISBANK,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+AXISBANK,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+AXISBANK,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+AXISBANK,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+AXISBANK,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+AXISBANK,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+AXISBANK,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+BAJFINANCE,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BAJFINANCE,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+BAJFINANCE,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+BAJFINANCE,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+BAJFINANCE,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+MARUTI,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+MARUTI,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+MARUTI,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+MARUTI,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,85
+MARUTI,con,C1,Debt-to-equity ratio of 2.5 is elevated for a non-financial company and warrants monitoring,90
+MARUTI,con,C5,Revenue contraction over consecutive years indicates demand weakness or market share loss,80
+MARUTI,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+ASIANPAINT,con,C1,Debt-to-equity ratio of 2.8 is elevated for a non-financial company and warrants monitoring,90
+ASIANPAINT,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+ASIANPAINT,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+SUNPHARMA,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+SUNPHARMA,con,C1,Debt-to-equity ratio of 2.3 is elevated for a non-financial company and warrants monitoring,90
+SUNPHARMA,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+SUNPHARMA,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+SUNPHARMA,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+SUNPHARMA,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+TATASTEEL,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+TATASTEEL,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+TATASTEEL,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+TATASTEEL,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+TATASTEEL,con,C1,Debt-to-equity ratio of 2.5 is elevated for a non-financial company and warrants monitoring,90
+TATASTEEL,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+TATASTEEL,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+WIPRO,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+WIPRO,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+WIPRO,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+WIPRO,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+WIPRO,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+WIPRO,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+WIPRO,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+HCLTECH,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+HCLTECH,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+HCLTECH,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+ONGC,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+ONGC,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+ONGC,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+ONGC,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+ONGC,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+NTPC,con,C6,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,90
+POWERGRID,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+POWERGRID,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+POWERGRID,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+POWERGRID,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+POWERGRID,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+POWERGRID,con,C1,Debt-to-equity ratio of 2.8 is elevated for a non-financial company and warrants monitoring,90
+POWERGRID,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+POWERGRID,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+POWERGRID,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+POWERGRID,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+COALINDIA,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+COALINDIA,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+COALINDIA,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+COALINDIA,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+COALINDIA,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+HINDALCO,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+HINDALCO,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+HINDALCO,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+HINDALCO,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+HINDALCO,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+TATAMOTORS,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+TATAMOTORS,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+TATAMOTORS,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+TATAMOTORS,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+TATAMOTORS,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+TATAMOTORS,con,C1,Debt-to-equity ratio of 2.5 is elevated for a non-financial company and warrants monitoring,90
+TATAMOTORS,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+ADANIPORTS,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+ADANIPORTS,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+ADANIPORTS,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+ADANIPORTS,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+TECHM,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+TECHM,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+TECHM,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,85
+TECHM,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+DRREDDY,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+DRREDDY,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+DRREDDY,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+DRREDDY,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+CIPLA,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+CIPLA,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+CIPLA,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+CIPLA,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+CIPLA,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+BPCL,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+BPCL,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+BPCL,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+BPCL,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,85
+BPCL,con,C1,Debt-to-equity ratio of 2.9 is elevated for a non-financial company and warrants monitoring,90
+BPCL,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+BPCL,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+ULTRACEMCO,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+ULTRACEMCO,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+ULTRACEMCO,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+ULTRACEMCO,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+ULTRACEMCO,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+AMBUJACEM,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+AMBUJACEM,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+AMBUJACEM,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+AMBUJACEM,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+AMBUJACEM,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+DABUR,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+DABUR,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+BRITANNIA,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+BRITANNIA,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BRITANNIA,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+BRITANNIA,con,C5,Revenue contraction over consecutive years indicates demand weakness or market share loss,80
+BRITANNIA,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+HEROMOTOCO,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+HEROMOTOCO,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+HEROMOTOCO,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+HEROMOTOCO,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+EICHERMOT,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+EICHERMOT,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+EICHERMOT,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+EICHERMOT,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+TITAN,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+TITAN,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+TITAN,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+TITAN,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+TITAN,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+TITAN,con,C1,Debt-to-equity ratio of 2.9 is elevated for a non-financial company and warrants monitoring,90
+TITAN,con,C6,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,90
+TITAN,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+MARICO,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+MARICO,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+MARICO,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+MARICO,con,C6,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,90
+MARICO,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+MARICO,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+VEDL,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+VEDL,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+VEDL,con,C1,Debt-to-equity ratio of 2.1 is elevated for a non-financial company and warrants monitoring,90
+VEDL,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+VEDL,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+JSPL,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+JSPL,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+JSPL,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+JSPL,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+JSPL,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+JSPL,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+GRASIM,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+GRASIM,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+GRASIM,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,85
+GRASIM,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+GRASIM,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+SHREECEM,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+SHREECEM,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+SHREECEM,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+BAJAJAUTO,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+BAJAJAUTO,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+BAJAJAUTO,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+BAJAJAUTO,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,85
+BAJAJAUTO,con,C1,Debt-to-equity ratio of 2.9 is elevated for a non-financial company and warrants monitoring,90
+BAJAJAUTO,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+BAJAJAUTO,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+BAJAJAUTO,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+BAJAJAUTO,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+M&M,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+M&M,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+M&M,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+M&M,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+M&M,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+M&M,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+ADANIENT,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+ADANIENT,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+ADANIENT,con,C1,Debt-to-equity ratio of 3.0 is elevated for a non-financial company and warrants monitoring,90
+ADANIENT,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+ADANIENT,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+DIVISLAB,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+DIVISLAB,con,C4,Company reported a net loss in the most recent financial year,95
+DIVISLAB,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+DIVISLAB,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+INDUSINDBK,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+INDUSINDBK,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+INDUSINDBK,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+INDUSINDBK,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+INDUSINDBK,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+INDUSINDBK,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+INDUSINDBK,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+TATAPOWER,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+TATAPOWER,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+TATAPOWER,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+TATAPOWER,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+TATAPOWER,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+TATAELXSI,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+TATAELXSI,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+TATAELXSI,con,C1,Debt-to-equity ratio of 2.5 is elevated for a non-financial company and warrants monitoring,90
+TATAELXSI,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,85
+TATAELXSI,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+PIDILITIND,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+PIDILITIND,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+PIDILITIND,con,C1,Debt-to-equity ratio of 2.1 is elevated for a non-financial company and warrants monitoring,90
+PIDILITIND,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+GODREJCP,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+GODREJCP,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+GODREJCP,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+HAVELLS,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+HAVELLS,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,85
+HAVELLS,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+BAJAJFINSV,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+BAJAJFINSV,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BAJAJFINSV,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+BAJAJFINSV,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+BAJAJFINSV,con,C1,Debt-to-equity ratio of 2.1 is elevated for a non-financial company and warrants monitoring,90
+BAJAJFINSV,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+BAJAJFINSV,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+BAJAJFINSV,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+LUPIN,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+LUPIN,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+LUPIN,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+LUPIN,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+LUPIN,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+BAJAJHLDNG,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+BAJAJHLDNG,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+BAJAJHLDNG,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BAJAJHLDNG,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+BAJAJHLDNG,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+BAJAJHLDNG,con,C1,Debt-to-equity ratio of 2.8 is elevated for a non-financial company and warrants monitoring,90
+BAJAJHLDNG,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+BAJAJHLDNG,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+BAJAJHLDNG,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+CANBK,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+CANBK,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+CANBK,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+BANKBARODA,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+BANKBARODA,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+BANKBARODA,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+BANKBARODA,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+UNIONBANK,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+UNIONBANK,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+PNB,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+PNB,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+PNB,con,C5,Revenue contraction over consecutive years indicates demand weakness or market share loss,80
+PNB,con,C6,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,90
+PNB,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+PNB,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+PNB,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+FEDERALBNK,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+FEDERALBNK,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+FEDERALBNK,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+FEDERALBNK,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+IDFCFIRSTB,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+IDFCFIRSTB,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+IDFCFIRSTB,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+IDFCFIRSTB,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+IDFCFIRSTB,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+HDFCLIFE,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+HDFCLIFE,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+HDFCLIFE,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+HDFCLIFE,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+HDFCLIFE,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+HDFCLIFE,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+HDFCLIFE,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+HDFCLIFE,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+SBILIFE,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+SBILIFE,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+SBILIFE,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+SBILIFE,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+SBILIFE,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+SBILIFE,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+SBILIFE,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+ICICIPRULI,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+ICICIPRULI,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+ICICIPRULI,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+ICICIPRULI,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+ICICIPRULI,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+ICICIPRULI,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+ICICIPRULI,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+SAIL,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+SAIL,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+SAIL,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+SAIL,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+SAIL,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+NMDC,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+NMDC,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+NMDC,con,C1,Debt-to-equity ratio of 2.4 is elevated for a non-financial company and warrants monitoring,90
+NMDC,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+NMDC,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+NMDC,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+NMDC,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+NMDC,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+NALCO,con,C5,Revenue contraction over consecutive years indicates demand weakness or market share loss,80
+NALCO,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+NALCO,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+NALCO,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+NHPC,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+NHPC,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+NHPC,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+NHPC,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+NHPC,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+POWERINDIA,con,C1,Debt-to-equity ratio of 2.2 is elevated for a non-financial company and warrants monitoring,90
+POWERINDIA,con,C5,Revenue contraction over consecutive years indicates demand weakness or market share loss,80
+POWERINDIA,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+POWERINDIA,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+IOCL,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+IOCL,con,C5,Revenue contraction over consecutive years indicates demand weakness or market share loss,80
+IOCL,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+IOCL,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+IOCL,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+IOCL,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+HPCL,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+HPCL,con,C5,Revenue contraction over consecutive years indicates demand weakness or market share loss,80
+HPCL,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+HPCL,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+HPCL,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+MUTHOOTFIN,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+MUTHOOTFIN,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+MUTHOOTFIN,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+MUTHOOTFIN,con,C5,Revenue contraction over consecutive years indicates demand weakness or market share loss,80
+MUTHOOTFIN,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+MUTHOOTFIN,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+BANDHANBNK,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+BANDHANBNK,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+BANDHANBNK,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BANDHANBNK,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+BANDHANBNK,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+BANDHANBNK,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+BANDHANBNK,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+TORNTPHARM,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+TORNTPHARM,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+TORNTPHARM,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+TORNTPHARM,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+TORNTPHARM,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+TORNTPHARM,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+TORNTPHARM,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+ALKEM,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+ALKEM,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+ALKEM,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+ALKEM,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+ALKEM,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+ALKEM,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+LALPATHLAB,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+LALPATHLAB,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+LALPATHLAB,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+LALPATHLAB,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+BIOCON,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+BIOCON,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+BIOCON,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+BIOCON,con,C6,Interest coverage ratio below 1.5x indicates the company is at risk of not meeting its debt obligations,90
+BIOCON,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+ZYDUSLIFE,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+ZYDUSLIFE,con,C1,Debt-to-equity ratio of 2.8 is elevated for a non-financial company and warrants monitoring,90
+ZYDUSLIFE,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+ZYDUSLIFE,con,C5,Revenue contraction over consecutive years indicates demand weakness or market share loss,80
+ZYDUSLIFE,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+ZYDUSLIFE,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+ZYDUSLIFE,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+ZYDUSLIFE,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+ZYDUSLIFE,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+ABBOTINDIA,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+ABBOTINDIA,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+ABBOTINDIA,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+ABBOTINDIA,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+ABBOTINDIA,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+APOLLOHOSP,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+APOLLOHOSP,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+APOLLOHOSP,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+APOLLOHOSP,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+MAXHEALTH,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+MAXHEALTH,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+MAXHEALTH,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+MAXHEALTH,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+MAXHEALTH,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,85
+MAXHEALTH,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+FORTIS,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+FORTIS,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+FORTIS,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+FORTIS,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+FORTIS,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,85
+FORTIS,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+DEVYANI,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+OBEROIRLTY,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+OBEROIRLTY,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+OBEROIRLTY,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+OBEROIRLTY,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+OBEROIRLTY,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,75
+INDIANHOTL,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+INDIANHOTL,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+INDIANHOTL,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+INDIANHOTL,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+INDIANHOTL,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+TVSMOTOR,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+VOLTAS,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+VOLTAS,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+VOLTAS,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+VOLTAS,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+VOLTAS,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+ASTRAL,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+ASTRAL,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+ASTRAL,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+ASTRAL,con,C1,Debt-to-equity ratio of 2.6 is elevated for a non-financial company and warrants monitoring,90
+ASTRAL,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+AARTIIND,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+AARTIIND,con,C1,Debt-to-equity ratio of 2.6 is elevated for a non-financial company and warrants monitoring,90
+AARTIIND,con,C3,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,80
+AARTIIND,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+AARTIIND,con,C9,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,85
+TORNTPOWER,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+TORNTPOWER,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+TORNTPOWER,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+TORNTPOWER,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+TORNTPOWER,con,C1,Debt-to-equity ratio of 2.7 is elevated for a non-financial company and warrants monitoring,90
+TORNTPOWER,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+TORNTPOWER,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,80
+M&MFIN,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+M&MFIN,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+M&MFIN,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+M&MFIN,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+CHOLAFIN,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+CHOLAFIN,pro,P5,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+CHOLAFIN,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+CHOLAFIN,pro,P8,Consistent dividend yield above 2% backed by positive free cash flow,80
+CHOLAFIN,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+CHOLAFIN,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+CHOLAFIN,con,C5,Revenue contraction over consecutive years indicates demand weakness or market share loss,80
+CHOLAFIN,con,C7,"Dividend payout ratio above 100% means the company is paying dividends from reserves, which is unsustainable",85
+CHOLAFIN,con,C11,Net debt exceeding 3 times EBITDA is a high leverage ratio and limits financial flexibility,85
+ASIANPAINT,pro,P0,Company maintains stable market position in its industry,65
+NTPC,pro,P0,Company maintains stable market position in its industry,65
+DIVISLAB,pro,P0,Company maintains stable market position in its industry,65
+CANBK,pro,P0,Company maintains stable market position in its industry,65
+NALCO,pro,P0,Company maintains stable market position in its industry,65
+POWERINDIA,pro,P0,Company maintains stable market position in its industry,65
+IOCL,pro,P0,Company maintains stable market position in its industry,65
+HPCL,pro,P0,Company maintains stable market position in its industry,65
+DEVYANI,con,C0,Industry faces macroeconomic headwinds and regulatory risks,65
+TVSMOTOR,con,C0,Industry faces macroeconomic headwinds and regulatory risks,65
